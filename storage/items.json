@@ -1,0 +1,254 @@
+[
+  {
+    "Duck": {
+      "code": "ABCDEQAB",
+      "price": "140",
+      "total": "1",
+      "type": "Meat",
+      "expired": "10/1/3000"
+    }
+  },
+  {
+    "Orange": {
+      "code": "ABACDEA",
+      "price": "102",
+      "total": "30",
+      "type": "Fruit",
+      "expired": "31/9/3013"
+    }
+  },
+  {
+    "Banana": {
+      "code": "F21233",
+      "price": "12000",
+      "total": "93",
+      "type": "Fruit",
+      "expired": "12/11/2021"
+    }
+  },
+  {
+    "Chicken": {
+      "code": "M21IUA",
+      "price": "12",
+      "total": "4",
+      "type": "Meat",
+      "expired": "1/1/2001"
+    }
+  },
+  {
+    "Avocado": {
+      "code": "F31288",
+      "price": "922",
+      "total": "99",
+      "type": "Fruit",
+      "expired": "5/3/2006"
+    }
+  },
+  {
+    "Grape": {
+      "code": "F41872",
+      "price": "900001",
+      "total": "89",
+      "type": "Fruit",
+      "expired": "12/2/1002"
+    }
+  },
+  {
+    "Crab": {
+      "code": "M3976",
+      "price": "105",
+      "total": "230",
+      "type": "Meat",
+      "expired": "9/8/2021"
+    }
+  },
+  {
+    "Shrimp": {
+      "code": "M4975",
+      "price": "55",
+      "total": "90",
+      "type": "Meat",
+      "expired": "11/2/2022"
+    }
+  },
+  {
+    "Lobster": {
+      "code": "M5975",
+      "price": "90",
+      "total": "90",
+      "type": "Meat",
+      "expired": "2/1/2021"
+    }
+  },
+  {
+    "Duck": {
+      "code": "ABCDEQAB",
+      "price": "140",
+      "total": "1",
+      "type": "Meat",
+      "expired": "10/1/3000"
+    }
+  },
+  {
+    "Orange": {
+      "code": "ABACDEA",
+      "price": "102",
+      "total": "30",
+      "type": "Fruit",
+      "expired": "31/9/3013"
+    }
+  },
+  {
+    "Banana": {
+      "code": "F21233",
+      "price": "12000",
+      "total": "93",
+      "type": "Fruit",
+      "expired": "12/11/2021"
+    }
+  },
+  {
+    "Chicken": {
+      "code": "M21IUA",
+      "price": "12",
+      "total": "4",
+      "type": "Meat",
+      "expired": "1/1/2001"
+    }
+  },
+  {
+    "Avocado": {
+      "code": "F31288",
+      "price": "922",
+      "total": "99",
+      "type": "Fruit",
+      "expired": "5/3/2006"
+    }
+  },
+  {
+    "Grape": {
+      "code": "F41872",
+      "price": "900001",
+      "total": "89",
+      "type": "Fruit",
+      "expired": "12/2/1002"
+    }
+  },
+  {
+    "Crab": {
+      "code": "M3976",
+      "price": "105",
+      "total": "230",
+      "type": "Meat",
+      "expired": "9/8/2021"
+    }
+  },
+  {
+    "Shrimp": {
+      "code": "M4975",
+      "price": "55",
+      "total": "90",
+      "type": "Meat",
+      "expired": "11/2/2022"
+    }
+  },
+  {
+    "Lobster": {
+      "code": "M5975",
+      "price": "90",
+      "total": "90",
+      "type": "Meat",
+      "expired": "2/1/2021"
+    }
+  },
+  {
+    "Duck": {
+      "code": "ABCDEQAB",
+      "price": "140",
+      "total": "1",
+      "type": "Meat",
+      "expired": "10/1/3000"
+    }
+  },
+  {
+    "Orange": {
+      "code": "ABACDEA",
+      "price": "102",
+      "total": "30",
+      "type": "Fruit",
+      "expired": "31/9/3013"
+    }
+  },
+  {
+    "Banana": {
+      "code": "F21233",
+      "price": "12000",
+      "total": "93",
+      "type": "Fruit",
+      "expired": "12/11/2021"
+    }
+  },
+  {
+    "Chicken": {
+      "code": "M21IUA",
+      "price": "12",
+      "total": "4",
+      "type": "Meat",
+      "expired": "1/1/2001"
+    }
+  },
+  {
+    "Avocado": {
+      "code": "F31288",
+      "price": "922",
+      "total": "99",
+      "type": "Fruit",
+      "expired": "5/3/2006"
+    }
+  },
+  {
+    "Grape": {
+      "code": "F41872",
+      "price": "900001",
+      "total": "89",
+      "type": "Fruit",
+      "expired": "12/2/1002"
+    }
+  },
+  {
+    "Crab": {
+      "code": "M3976",
+      "price": "105",
+      "total": "230",
+      "type": "Meat",
+      "expired": "9/8/2021"
+    }
+  },
+  {
+    "Shrimp": {
+      "code": "M4975",
+      "price": "55",
+      "total": "90",
+      "type": "Meat",
+      "expired": "11/2/2022"
+    }
+  },
+  {
+    "Lobster": {
+      "code": "M5975",
+      "price": "90",
+      "total": "90",
+      "type": "Meat",
+      "expired": "2/1/2021"
+    }
+  },
+  {
+    "Lemon": {
+      "code": "12K92",
+      "price": "90",
+      "total": "80",
+      "type": "Fruit",
+      "expired": "7/12/2022"
+    }
+  }
+]
