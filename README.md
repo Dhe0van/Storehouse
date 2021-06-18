@@ -1,5 +1,5 @@
 # Storehouse
-Name : Dheovan Winata Alvian</br>Class: 10.1 Computer class
+Name: Dheovan Winata Alvian</br>Class : 10.1 Computer class
 
 ## About
 A simple GUI app for storing data (mainly for a product)
